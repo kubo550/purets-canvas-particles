@@ -11,3 +11,5 @@ Nice HTML5 canvas animation written in pure TypeScript
 
 1. Code: [codes andbox](https://codesandbox.io/s/github/kubo550/purets-canvas-particles)
 1. Effect: [full sreen](https://z4xgg.csb.app/)
+
+![preview](https://raw.githubusercontent.com/kubo550/purets-canvas-particles/master/preview/p.png)
